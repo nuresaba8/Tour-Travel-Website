@@ -1,0 +1,50 @@
+
+.bt{
+    text-decoration: none;
+    background-color: #fabd02;
+    padding: 15px 40px;
+    font-size: 14px;
+    border-radius: 30px;
+}
+.b{
+    text-decoration: none;
+    background-color: #789fee;
+    padding: 15px 40px;
+    font-size: 14px;
+    border-radius: 30px;
+}
+.sk{
+    text-decoration: none;
+    background-color: #32d829;
+    padding: 15px 40px;
+    font-size: 14px;
+    border-radius: 30px;
+}
+.cz{
+    text-decoration: none;
+    background-color: hsl(195, 82%, 43%);
+    padding: 15px 40px;
+    font-size: 14px;
+    border-radius: 30px;
+}
+.st{
+    text-decoration: none;
+    background-color: #11dd63;
+    padding: 15px 40px;
+    font-size: 14px;
+    border-radius: 30px;
+}
+.rm{
+    text-decoration: none;
+    background-color: #11ddda;
+    padding: 15px 40px;
+    font-size: 14px;
+    border-radius: 30px;
+}
+.btn{
+    text-decoration: none;
+    background-color: #fabd02;
+    padding: 5px 30px;
+    font-size: 14px;
+    border-radius: 30px;
+}
